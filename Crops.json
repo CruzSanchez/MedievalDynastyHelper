@@ -1,0 +1,65 @@
+[
+    {
+        "Name":"Beetroot",
+        "BasePrice": 8.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Autumn",
+        "Where": "Field"
+    },
+    {
+        "Name":"Carrot",
+        "BasePrice": 5.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Autumn",
+        "Where": "Field"
+    },
+    {
+        "Name":"Cabbage",
+        "BasePrice": 8.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Summer",
+        "Where": "Field"
+    },
+    {
+        "Name":"Flax",
+        "BasePrice": 10.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Summer",
+        "Where": "Field"
+    },
+    {
+        "Name":"Onion",
+        "BasePrice": 5.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Summer",
+        "Where": "Field"
+    },
+    {
+        "Name":"Oat Grain",
+        "BasePrice": 5.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Autumn",
+        "Where": "Field"
+    },
+    {
+        "Name":"Poppy",
+        "BasePrice": 3.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Autumn",
+        "Where": "Field"
+    },
+    {
+        "Name":"Rye Grain",
+        "BasePrice": 5.0,
+        "PlantSeason": "Autumn",
+        "HarvestSeason": "Summer",
+        "Where": "Field"
+    },
+    {
+        "Name":"Wheat",
+        "BasePrice": 10.0,
+        "PlantSeason": "Spring",
+        "HarvestSeason": "Autumn",
+        "Where": "Field"
+    }       
+]

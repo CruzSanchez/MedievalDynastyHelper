@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalDynastyHelperLibrary", "MedievalDynastyHelperLibrary\MedievalDynastyHelperLibrary.csproj", "{5D0F1D44-7940-4B34-BB6D-E00E82E442DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedievalDynastyHelperConsole", "MedievalDynastyHelperConsole\MedievalDynastyHelperConsole.csproj", "{5F2F6F43-5111-44B5-8211-A583C5047148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0F1D44-7940-4B34-BB6D-E00E82E442DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0F1D44-7940-4B34-BB6D-E00E82E442DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0F1D44-7940-4B34-BB6D-E00E82E442DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0F1D44-7940-4B34-BB6D-E00E82E442DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2F6F43-5111-44B5-8211-A583C5047148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F6F43-5111-44B5-8211-A583C5047148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F6F43-5111-44B5-8211-A583C5047148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F6F43-5111-44B5-8211-A583C5047148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2270E398-647A-43F0-9016-DC2048A819D4}
+	EndGlobalSection
+EndGlobal
